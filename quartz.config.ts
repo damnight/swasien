@@ -58,7 +58,7 @@ const config: QuartzConfig = {
       Plugin.FrontMatter(),
       // quartz.config.ts
       Plugin.CreatedModifiedDate({
-      priority: ["git", "filesystem"], // Remove "frontmatter" if your frontmatter dates are broken
+      priority: ["filesystem"], // Remove "frontmatter" if your frontmatter dates are broken
       }),
       Plugin.SyntaxHighlighting({
         theme: {
@@ -75,7 +75,8 @@ const config: QuartzConfig = {
       Plugin.Latex({ renderEngine: "katex" }),
     ],
     filters: [Plugin.RemoveDrafts(),
-    Plugin.ExplicitPublish(),],
+    //Plugin.ExplicitPublish(),
+    ],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
