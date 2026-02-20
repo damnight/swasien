@@ -1,0 +1,1 @@
+Mansaku ist eine [[Hexen |Blut Hexe]] ihr [[Celestial Marks | Celestial Mark]] liegt über ihrem Herz. Sie ist in einer romantischen Beziehung mit [[Akihiko | Aki]] ein weiterer [[Die Verbundenen | Verbundener]].
