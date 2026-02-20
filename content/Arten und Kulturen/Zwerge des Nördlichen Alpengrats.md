@@ -1,5 +1,0 @@
----
-publish: "true"
----
-
-Die Zwerge des Nördlichen Alpengrats bilden eine Föderale Republik. Sie sind Technologisch äußerst fortgeschritten, und sind meist an der Speerspitze neuer Erfindungen, Ingenieurskunst und Bildung. Sie haben den Alpengrat mit Tunneln, Minen und Städten durchzogen. Die Oberfläche ist meist Brach und in Wüstenähnlichen Zuständen, sofern nicht von den Zwergen bestellt. Vor langer Zeit, in der feudalen Ära waren die kleinen Königreiche verstritten. Die Machtgier der Herrscher versklavte sie in den Minen. Doch die Brüder Sindri und Brokk leiteten die Revolutionäre Befreiuung und zusammen mit den Kumpels wurde die Union der Zwerge ausgerufen.

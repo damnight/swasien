@@ -1,5 +1,0 @@
----
-publish: "true"
----
-
-Sylvaner entspringen den Knospen des Lebensbaums Sylvir in Tera'Ûhr. Sylvir entsprang vor zehntausenden von Jahren, doch ist wenig darüber in der Außenwelt bekannt. Sylvaner leben, dienen und sterben im Schatten Sylvir's, doch vor wenigen Jahren wurden einige wenige auch jenseits des Dschungels gesichtet. Elfen munkeln oft, sie seien die Favoriten von Flora. Sylvaner tragen kein klassisches Geschlecht, und lassen sich nur schwer Kategorisieren. Ihre Erscheinung, Gemüt und Geist ist so vielfältig wie die Blumen einer weiten Wiese, den Sträuchern der Erde und Weiden der Berge. Sie alle verbindet der Traum, eine Spirituelle Ebene in der sie Zuflucht, Rat und Gemeinsamkeit finden, selbst dann wenn sie auf fernen Reisen durch das Dickicht des Dschungels unterwegs sind, und auch jenseits davon.
