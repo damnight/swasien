@@ -2,5 +2,5 @@
 
 # [[Charaktere]]
 
-# ![[Lore]]
+# [[Lore]]
 
